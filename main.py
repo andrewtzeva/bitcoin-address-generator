@@ -1,4 +1,4 @@
-from gen import KeyGenerator
+from generator import KeyGenerator
 from bitcoin import BitcoinWallet
 
 
